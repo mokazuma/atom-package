@@ -1,0 +1,25 @@
+"*":
+  editor:
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+    invisibles: {}
+  core:
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+  "exception-reporting":
+    userId: "80c46a27-2dae-ae87-9ee3-59acda796fd9"
+  welcome:
+    showOnStartup: false
+  metrics:
+    userId: "bac7d81376e589f06326df253be1a0365ed2ca45"
+  "recent-files":
+    updated: false
+  minimap:
+    plugins:
+      selection: true
+      "color-highlight": true
+      "find-and-replace": true
+  "atom-color-highlight": {}
+  "autocomplete-plus": {}
