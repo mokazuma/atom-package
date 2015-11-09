@@ -17,5 +17,5 @@ minimap-selection@4.3.0
 processing@0.7.0
 processing-language@0.2.0
 script@2.26.4
-term2@0.9.14
 wordcount@2.2.2
+term2@0.9.14
