@@ -4,7 +4,6 @@ atom-beautify@0.28.14
 atom-runner@2.4.1
 autocompelete-paths@1.0.2
 file-icons@1.6.3
-japanese-wrap@0.2.10
 javascript-snippets@1.0.0
 jquery-snippets@11.0.0
 language-r@0.2.0
